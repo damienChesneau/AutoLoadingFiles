@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+    <script for="index" priority="1">./js_for_pages/index.js</script>
+    <style for="index" priority="2">./css_for_pages/index.css</style>
+</files>
