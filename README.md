@@ -3,13 +3,13 @@ With this framework you can load simply yours JavaScript and CSS files with othe
 Priority and groups loading are managed.
 
 Exemple of Js use :
-<code>
+<br><code>
 scripts.loadScripts("index", function() {
   // Write your code you wants to load after files loaded.
 });
-</code>
+</code><br>
 Exemple of xml statment :
-<code>
+<br><code>
   <script for="index" priority="1">./js_for_pages/index.js</script>
   <style for="index" priority="2">./css_for_pages/index.css</style>
 </code>
