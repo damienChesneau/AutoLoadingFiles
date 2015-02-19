@@ -9,7 +9,7 @@ scripts.loadScripts("index", function() {
 });
 </code><br>
 Exemple of xml statment :
-<br><code>
+<code><br>
   <script for="index" priority="1">./js_for_pages/index.js</script>
   <style for="index" priority="2">./css_for_pages/index.css</style>
 </code>
